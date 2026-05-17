@@ -17,8 +17,8 @@ With TestMu AI (Formerly LambdaTest), you can run blazing-fast tests on the Hype
 
 ### Prerequisites
 
-1. A TestMu AI account — [sign up here](https://www.testmuai.com/register/).
-2. Your TestMu AI Username and Access Key from the [Automation Dashboard](https://automation.testmuai.com/).
+1. A TestMu AI account — sign up here.
+2. Your TestMu AI Username and Access Key from the Automation Dashboard.
 3. OS: Windows, macOS, or Linux.
 
 ### Setup
@@ -30,7 +30,7 @@ git clone https://github.com/LambdaTest/hyperexecute-cli-binaries
 cd hyperexecute-cli-binaries
 ```
 
-Download the latest HyperExecute CLI binary for your OS from the [releases page](https://github.com/LambdaTest/hyperexecute-cli-binaries/releases).
+Download the latest HyperExecute CLI binary for your OS from the releases page.
 
 Set your TestMu AI credentials as environment variables:
 
