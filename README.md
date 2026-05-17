@@ -4,9 +4,7 @@
 
 <p align="center">
 
-  <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
-
-  <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
+  <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>  <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
 
 </p>
 
@@ -20,7 +18,7 @@
 
 
 
-With TestMu AI (Formerly LambdaTest), you can run blazing-fast tests on the HyperExecute platform. The HyperExecute CLI binaries allow you to trigger and manage test execution directly from your terminal.
+With TestMu AI (Formerly LambdaTest), you can run blazing-fast tests on its HyperExecute platform. The HyperExecute CLI binaries allow you to trigger and manage test execution directly from your terminal.
 
 
 
@@ -34,7 +32,7 @@ With TestMu AI (Formerly LambdaTest), you can run blazing-fast tests on the Hype
 
 
 
-1. A TestMu AI account — sign up here.
+1. A TestMu AI account.
 
 2. Your TestMu AI Username and Access Key from the Automation Dashboard.
 
