@@ -200,7 +200,7 @@ Same team. Same infrastructure. Same customer accounts. All existing LambdaTest 
 
 
 
-ð Find the new home for [LambdaTest](https://www.testmuai.com).
+👉 Find the new home for [LambdaTest](https://www.testmuai.com).
 
 
 
