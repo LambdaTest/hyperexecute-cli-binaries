@@ -118,6 +118,15 @@ hyperexecute.exe --user %LT_USERNAME% --key %LT_ACCESS_KEY% --config hyperexecut
 
 
 
+### Docker image
+
+The CLI is also available as a Docker image, on Docker Hub and on GitHub Container Registry:
+
+```bash
+docker pull lambdatest/hyperexecute:latest
+docker pull ghcr.io/lambdatest/hyperexecute:latest
+```
+
 ### Local testing with TestMu AI Tunnel
 
 
